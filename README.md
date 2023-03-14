@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![MasterHead](https://career.wordapp.com/wp-content/uploads/2017/08/jobbanner_front-end_developer.jpg)
 
