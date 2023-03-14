@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://career.wordapp.com/wp-content/uploads/2017/08/jobbanner_front-end_developer.jpg)
+![MasterHead](image.png)
 
 <h1 align="center">Hi 👋, I'm Noureen</h1>
 <h3 align="center">A passionate frontend developer</h3>
